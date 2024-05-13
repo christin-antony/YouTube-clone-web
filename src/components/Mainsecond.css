@@ -1,0 +1,254 @@
+.Mdiv4 {
+  height: 200px;
+  width: 340px;
+  margin-bottom: 120px;
+  padding-left: 270px;
+}
+.Mdiv4 :hover{
+  cursor: pointer;
+  background-color: white
+}
+
+.LMdiv4 :hover{
+  cursor: pointer;
+   background-color: white
+}
+.LMdiv4 {
+  height: 240px;
+  width: 395px;
+  margin-bottom: 130px;
+  padding-left: 100px;
+}
+.V-1 {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 10px;
+  display: block;
+}
+.Mdiv5 {
+  width: 340px;
+  height: 100px;
+  margin-top: 10px;
+  padding: 0%;
+  display: grid;
+  
+}
+.Mdiv6 {
+  display: flex;
+  justify-content: space-between;
+  height: 40px;
+}
+.LMdiv5 {
+  width: 400px;
+  margin-top: 10px;
+  padding: 0%;
+  display: grid;
+  
+}
+.LMdiv6 {
+  display: flex;
+  justify-content: space-between;
+  height: 60px;
+}
+.pic {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-right: 10px;
+}
+.Lpic {
+  width: 45px;
+  height: 45px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-right: 10px;
+}
+.title {
+  width: 95%;
+  height: 40px;
+  font-size: 17px;
+  overflow: hidden;
+  text-align: left;
+}
+.Ltitle {
+  width: 95%;
+  height: 45px;
+  font-size: 19px;
+  overflow: hidden;
+  text-align: left;
+}
+.channel {
+  font-size: 13px;
+  text-align: left;
+  margin: 0px 0px 0px 48px;
+  color: #7a7878;
+ 
+}
+.Lchannel {
+  font-size: 15px;
+  text-align: left;
+  margin: 0px 0px 0px 52px;
+  color: #7a7878;
+
+}
+.views {
+  font-size: 13px;
+  text-align: left;
+  margin: 0px 0px 0px 48px;
+  color: #7a7878;
+}
+.Lviews {
+  font-size: 15px;
+  text-align: left;
+  margin: 0px 0px 0px 52px;
+  color: #7a7878;
+}
+.Mbtn {
+  background-color: transparent;
+  border: none;
+  margin-right: 5px;
+  visibility: hidden;
+}
+.LMbtn {
+  background-color: transparent;
+  border: none;
+  margin-right: 5px;
+  visibility: hidden;
+}
+.Mi3 {
+  font-size: 17px;
+}
+.LMi3 {
+  font-size: 19px;
+}
+.Mdiv5:hover .Mbtn {
+  visibility: visible;
+  cursor: pointer;
+}
+.LMdiv5:hover .LMbtn {
+  visibility: visible;
+  cursor: pointer;
+}
+.video-card {
+  position:relative;
+  width: 340px;
+  height: 190px;
+  overflow: hidden;
+}
+.Lvideo-card {
+  position: relative;
+  height: 235px;
+  width: 400px;
+  overflow: hidden;
+}
+.video-card.video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: none;
+  object-fit: cover;
+}
+.video-card:hover video {
+  display: block;
+  cursor: pointer;
+}
+.video-card:hover .V-1 {
+  display:none;
+  cursor: pointer;
+}
+.Lvideo-card:hover .V-1 {
+  display: none;
+  cursor: pointer;
+}
+
+.Lvideo-card.video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: none;
+  object-fit: cover;
+}
+
+.Lvideo-card:hover video {
+  display: block;
+  cursor: pointer;
+}
+
+.video-card:hover .MMp1 {
+  visibility: hidden;
+  cursor: pointer;
+}
+.Lvideo-card:hover .LMMp1 {
+  visibility: hidden;
+  cursor: pointer;
+}
+
+.MMp1 {
+  position: absolute;
+  bottom: 0px;
+  right: 10px;
+  color: white;
+  font-size: 13px;
+  font-weight: bold;
+  z-index: 1;
+  background-color: black;
+  width: auto;
+  height: 20px;
+  border-radius: 3px;
+  visibility: visible;
+  padding-left: 3px;
+  padding-right: 3px;
+}
+
+.LMMp1 {
+  position: absolute;
+  bottom: 0px;
+  right: 20px;
+  color: white;
+  font-size: 14px;
+  font-weight: bold;
+  z-index: 1;
+  background-color: rgb(57, 57, 57);
+  width: auto;
+  height: 20px;
+  border-radius: 3px;
+  visibility: visible;
+  padding-left: 2px;
+  padding-right: 2px;
+}
+
+.part1 {
+  gap: 10px;
+  display: flex;
+  flex-wrap: wrap;
+ 
+}
+
+.Lpart1 {
+  gap: 15px;
+  display: flex;
+  flex-wrap: wrap;
+ 
+}
+
+.Maindiv {
+  margin-top: 130px;
+
+ 
+ 
+}
+.Maindiv::-webkit-scrollbar {
+  width: 0;
+  background: transparent;
+}
+
+.Video {
+  height: 100%;
+  width: 100%;
+}

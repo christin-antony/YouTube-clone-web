@@ -1,0 +1,35 @@
+.SSdiv1{
+    width:70px;
+    height: 75px;
+    border-radius: 15px;
+    margin-bottom: 3px;
+    cursor: pointer;
+    padding-top: 20px;
+    display: grid;
+    place-items: center;
+    
+   
+}
+.SSdiv1:hover
+{
+    background-color: rgb(225, 226, 228);
+}
+.SSp1{
+    font-size: 10px;
+
+}
+.SSdiv0{
+    padding: 5px;
+    margin-right: 20px;
+    
+}.SSdiv00{
+    margin-top: 60px;
+    position:fixed;
+
+ 
+    
+}
+.SSicon{
+    font-size: 22px;
+   
+}
