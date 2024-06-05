@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/YouTube-clone-web/static/css/main.331aa86f.css",
+    "main.js": "/YouTube-clone-web/static/js/main.4273d02a.js",
+    "static/js/453.5279ffd6.chunk.js": "/YouTube-clone-web/static/js/453.5279ffd6.chunk.js",
+    "static/media/v1.mp4": "/YouTube-clone-web/static/media/v1.edcf670c1a43a3c5c0b1.mp4",
+    "static/media/safari.png": "/YouTube-clone-web/static/media/safari.1e569fbce078ab18a127.png",
+    "static/media/bi.jpg": "/YouTube-clone-web/static/media/bi.76c20ebd955cf53805f7.jpg",
+    "static/media/moviewood.png": "/YouTube-clone-web/static/media/moviewood.ab18d608daf3d497d269.png",
+    "static/media/messi.jpg": "/YouTube-clone-web/static/media/messi.2928346f806f98b39dd6.jpg",
+    "static/media/adu.jpg": "/YouTube-clone-web/static/media/adu.df3d7d14141201f2c223.jpg",
+    "static/media/matinee.png": "/YouTube-clone-web/static/media/matinee.6c2b75eb06dd44d99a1b.png",
+    "static/media/spa.jpg": "/YouTube-clone-web/static/media/spa.476b2f384296916d4aca.jpg",
+    "static/media/chep.jpg": "/YouTube-clone-web/static/media/chep.3f7aeed072aeecdd3901.jpg",
+    "static/media/santho.jpg": "/YouTube-clone-web/static/media/santho.902f2f33baca56e4d710.jpg",
+    "static/media/mls.png": "/YouTube-clone-web/static/media/mls.3ca3cf5cd7032bfd3339.png",
+    "static/media/Screenshot 2024-05-10 052419.png": "/YouTube-clone-web/static/media/Screenshot 2024-05-10 052419.d062fa81b92021203702.png",
+    "static/media/music.png": "/YouTube-clone-web/static/media/music.8d15740d9f7d696420da.png",
+    "static/media/1.jpg": "/YouTube-clone-web/static/media/1.6c77ae710cc0304b14c1.jpg",
+    "index.html": "/YouTube-clone-web/index.html",
+    "main.331aa86f.css.map": "/YouTube-clone-web/static/css/main.331aa86f.css.map",
+    "main.4273d02a.js.map": "/YouTube-clone-web/static/js/main.4273d02a.js.map",
+    "453.5279ffd6.chunk.js.map": "/YouTube-clone-web/static/js/453.5279ffd6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.331aa86f.css",
+    "static/js/main.4273d02a.js"
+  ]
+}
