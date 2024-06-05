@@ -17,6 +17,7 @@ function App() {
       <Routes>
         
                             <Route path='/' element={<Home />} />
+                            <Route path='/YouTube-clone' element={<Home />} />
 
                             <Route path='/login' element={<Login />} />
                             <Route path='/add' element={<Add/>} />
